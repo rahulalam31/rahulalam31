@@ -21,8 +21,8 @@ I´m Rahul Alam
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=square&logo=amazon-aws)
   
   ![Laravel](https://img.shields.io/badge/Laravel-white?style=square&logo=laravel)
-  ![Drupal](https://img.shields.io/badge/Drupal-blue?style=square&logo=drupal)
-  ![WordPress](https://img.shields.io/badge/WordPress-black?style=square&logo=wordpress)
+  <!--![Drupal](https://img.shields.io/badge/Drupal-blue?style=square&logo=drupal)
+  ![WordPress](https://img.shields.io/badge/WordPress-black?style=square&logo=wordpress)-->
   
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=square&logo=react)
   ![Vue](https://img.shields.io/badge/-Vuejs-white?style=square&logo=Vue.js)
