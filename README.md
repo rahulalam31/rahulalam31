@@ -1,11 +1,11 @@
 <h1 align="center">Hello, there I'm RAHUL ALAM</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaberial31&label=Profile%20views&color=0e75b6&style=flat" alt="gaberial31" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulalam31&label=Profile%20views&color=0e75b6&style=flat" alt="rahulalam31" /> </p>
 
-<img src="https://img.shields.io/github/followers/gaberial31.svg?style=social&label=Follow&maxAge=2592000" />
+<img src="https://img.shields.io/github/followers/rahulalam31.svg?style=social&label=Follow&maxAge=2592000" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaberial31" alt="gaberial31" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulalam31" alt="rahulalam31" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -77,10 +77,10 @@
 </h3>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaberial31&show_icons=true&locale=en&layout=compact" alt="gaberial31" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulalam31&show_icons=true&locale=en&layout=compact" alt="rahulalam31" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaberial31&show_icons=true&locale=en" alt="gaberial31" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulalam31&show_icons=true&locale=en" alt="rahulalam31" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaberial31&" alt="gaberial31" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulalam31&" alt="rahulalam31" /></p>
 
 
