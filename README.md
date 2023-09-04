@@ -80,10 +80,10 @@
 </h3>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulalam31&show_icons=true&locale=en&layout=compact" alt="rahulalam31" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulalam31&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="rahulalam31" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulalam31&show_icons=true&locale=en&theme=cobalt" alt="rahulalam31" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulalam31&" alt="rahulalam31" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulalam31&theme=cobalt" alt="rahulalam31" /></p>
 
 <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulalam31&theme=2077" /></p>
