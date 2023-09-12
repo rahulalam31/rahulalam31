@@ -1,8 +1,6 @@
 <h1 align="center">Hello, there I'm RAHUL ALAM</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ADF74E&background=3AFF2D00&vCenter=true&multiline=true&width=435&lines=Hi%2C+I+am+Rahul+Alam.;If+you+love+my+repositry+give+it+a+star." alt="Typing SVG" /></a>
-</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulalam31&label=Profile%20views&color=0e75b6&style=flat" alt="rahulalam31" /> </p>
 
