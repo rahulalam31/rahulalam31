@@ -85,7 +85,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulalam31&show_icons=true&locale=en&theme=cobalt" alt="rahulalam31" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulalam31&theme=cobalt" alt="rahulalam31" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rahulalam31&theme=dark)](https://git.io/streak-stats)
+
 
 <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulalam31&theme=2077" /></p>
 
