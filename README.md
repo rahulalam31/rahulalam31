@@ -68,6 +68,13 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rahulalam31&theme=dark)](https://git.io/streak-stats)
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulalam31&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="rahulalam31" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulalam31&show_icons=true&locale=en&theme=cobalt" alt="rahulalam31" /></p>
+
+
 <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulalam31&theme=2077" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
